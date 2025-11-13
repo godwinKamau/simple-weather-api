@@ -1,6 +1,6 @@
 # Simple Weather API
 
-### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
+Users can enter in a city and country to receive the temperature of the desired city in farenheit.
 
 _The website is pretty un CSS'd but it works you can view it [here](https://godwinkamau.github.io/simple-weather-api/)_
 
